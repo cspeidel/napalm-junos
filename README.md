@@ -5,3 +5,14 @@
 
 
 # napalm-junos
+
+Driver for JunOS devices that uses [napalm](https://github.com/napalm-automation/napalm) to retrieve data or modify configuration on Juniper networking devices.
+
+Install
+=======
+
+To install just run the command:
+
+```
+pip install napalm-junos
+```
